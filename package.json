@@ -1,0 +1,16 @@
+{
+  "name": "errorwarmup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "knex": "^0.13.0",
+    "pg": "^7.3.0"
+  }
+}
